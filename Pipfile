@@ -10,6 +10,10 @@ ipykernel = "*"
 python-dotenv = "*"
 pandas = "*"
 folium = "*"
+lxml = "*"
+html5lib = "*"
+beautifulsoup4 = "*"
+pyperclip = "*"
 
 [dev-packages]
 autopep8 = "*"
